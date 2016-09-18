@@ -41,8 +41,8 @@ var common = {
 				</p>
 				<p> 
 					This is my common content page for all three pages.
-				</p>`},
-	},
+				</p>`
+	            },
 	aboutmyjob: {
 		title: 'My Job | Abhinandan Raju',
 		heading: 'My job page',
@@ -61,10 +61,8 @@ var common = {
 					This is my common content page for all three pages.
 				</p>
 				`
-				};
-				
-				
-
+				},
+};
 
 var content = {
 	title: 'About Me | Abhinandan Raju',
